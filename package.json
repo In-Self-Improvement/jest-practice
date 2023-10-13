@@ -1,0 +1,15 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": "https://github.com/In-Self-Improvement/jest-practice.git",
+  "author": "Bong <borobong230@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
